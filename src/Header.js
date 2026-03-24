@@ -10,7 +10,7 @@ const Header = () => {
             <nav className="navbar navbar-expand-lg custom_nav-container">
 
               <Link className="navbar-brand" to="/">
-                <img src="assets/images/logo.png" alt="" />
+                <img src="/assets/images/logo.png" alt="Logo" />
                 <span>Lodge</span>
               </Link>
 
@@ -28,7 +28,7 @@ const Header = () => {
                   <ul className="navbar-nav">
 
                     <li className="nav-item active">
-                      <Link className="nav-link" to="/Home">Home</Link>
+                      <Link className="nav-link" to="/home">Home</Link>
                     </li>
 
                     <li className="nav-item">
@@ -51,8 +51,8 @@ const Header = () => {
                 </div>
 
                 <div className="quote_btn-container">
-                  <button>
-                    <img src="assets/images/cart.png" alt="" />
+                  <button type="button">
+                    <img src="/assets/images/cart.png" alt="Cart" />
                   </button>
                 </div>
 
@@ -63,7 +63,7 @@ const Header = () => {
 
         <section className="slider_section position-relative">
           <div className="design-box">
-            <img src="assets/images/design-1.png" alt="" />
+            <img src="/assets/images/design-1.png" alt="" />
           </div>
 
           <div className="container">
@@ -75,19 +75,64 @@ const Header = () => {
                   <h1>Jewellery</h1>
                   <p>Lorem ipsum dolor sit amet...</p>
 
-                  <Link to="/jewellery">Shop Now</Link>
+                  <button type="button">Shop Now</button>
                 </div>
               </div>
 
               <div className="col-md-6">
                 <div className="img-box">
-                  <img src="assets/images/hero.jpg" alt="" />
+                  <img src="/assets/images/hero.jpg" alt="Hero" />
                 </div>
               </div>
 
             </div>
           </div>
         </section>
+
+      </div>
+
+      <div className="item_section layout_padding2">
+        <div className="container">
+          <div className="item_container">
+
+            <div className="box">
+              <div className="price">
+                <h6>Best PRICE</h6>
+              </div>
+              <div className="img-box">
+                <img src="/assets/images/earrings.png" alt="Bracelet" />
+              </div>
+              <div className="name">
+                <h5>Bracelet</h5>
+              </div>
+            </div>
+
+            <div className="box">
+              <div className="price">
+                <h6>Best PRICE</h6>
+              </div>
+              <div className="img-box">
+                <img src="/assets/images/multiplejewellery.png" alt="Ring" />
+              </div>
+              <div className="name">
+                <h5>Ring</h5>
+              </div>
+            </div>
+
+            <div className="box">
+              <div className="price">
+                <h6>Best PRICE</h6>
+              </div>
+              <div className="img-box">
+                <img src="/assets/images/nacklace.png" alt="Earrings" />
+              </div>
+              <div className="name">
+                <h5>Earrings</h5>
+              </div>
+            </div>
+
+          </div>
+        </div>
       </div>
     </>
   );

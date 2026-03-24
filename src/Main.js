@@ -5,7 +5,7 @@ const Main = () => {
     <>
       <section className="about_section layout_padding2-top layout_padding-bottom">
         <div className="design-box">
-          <img src="assests/images/design-2.png" alt="" />
+          <img src="assets/images/design-2.png" alt="" />
         </div>
 
         <div className="container">
@@ -28,7 +28,7 @@ const Main = () => {
 
             <div className="col-md-6">
               <div className="img-box">
-                <img src="assests/images/about.jpg" alt="" />
+                <img src="assets/images/about.jpg" alt="" />
               </div>
             </div>
           </div>
@@ -48,7 +48,7 @@ const Main = () => {
               </div>
 
               <div className="img-box">
-                <img src="assests/images/earrings.jpg" alt="" />
+                <img src="assets/images/earrings.jpg" alt="" />
               </div>
 
               <div className="detail-box">
@@ -63,7 +63,7 @@ const Main = () => {
               </div>
 
               <div className="img-box">
-                <img src="assests/images/multiple jewellery.jpg" alt="" />
+                <img src="assets/images/multiple jewellery.jpg" alt="" />
               </div>
 
               <div className="detail-box">
@@ -78,7 +78,7 @@ const Main = () => {
               </div>
 
               <div className="img-box">
-                <img src="assests/images/necklace set.jpg" alt="" />
+                <img src="assets/images/necklace set.jpg" alt="" />
               </div>
 
               <div className="detail-box">
@@ -96,7 +96,7 @@ const Main = () => {
 
       <section className="ring_section layout_padding">
         <div className="design-box">
-          <img src="assests/images/design-1.png" alt="" />
+          <img src="assets/images/design-1.png" alt="" />
         </div>
 
         <div className="container">
@@ -112,7 +112,7 @@ const Main = () => {
 
               <div className="col-md-7">
                 <div className="img-box">
-                  <img src="assests/images/ring.jpg" alt="" />
+                  <img src="assets/images/ring.jpg" alt="" />
                 </div>
               </div>
             </div>
@@ -158,7 +158,7 @@ const Main = () => {
 
       <section className="contact_section layout_padding">
         <div className="design-box">
-          <img src="assests/images/design-2.jpg" alt="" />
+          <img src="assets/images/design-2.jpg" alt="" />
         </div>
 
         <div className="container">
@@ -204,7 +204,7 @@ const Main = () => {
               <div className="col-md-3">
                 <div className="info_logo">
                   <a href="#">
-                    <img src="assest/images/logo.png" alt="" />
+                    <img src="assets/images/logo.png" alt="" />
                     <span>Lodge</span>
                   </a>
                 </div>

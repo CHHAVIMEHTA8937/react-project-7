@@ -5,7 +5,7 @@ const About = () => {
     <>
       <section className="about_section layout_padding2-top layout_padding-bottom">
         <div className="design-box">
-          <img src="assests/images/design-2.png" alt="" />
+          <img src="assets/images/design-2.png" alt="" />
         </div>
         <div className="container">
           <div className="row">
@@ -31,7 +31,7 @@ const About = () => {
             </div>
             <div className="col-md-6">
               <div className="img-box">
-                <img src="assests/images/about.jpg" alt="" />
+                <img src="assets/images/about.jpg" alt="" />
               </div>
             </div>
           </div>

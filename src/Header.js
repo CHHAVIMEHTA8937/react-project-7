@@ -10,7 +10,7 @@ const Header = () => {
             <nav className="navbar navbar-expand-lg custom_nav-container">
 
               <a className="navbar-brand" href="/">
-                <img src="assests/images/logo.png" alt="" />
+                <img src="assets/images/logo.png" alt="" />
                 <span>Lodge</span>
               </a>
 
@@ -52,7 +52,7 @@ const Header = () => {
 
                 <div className="quote_btn-container">
                   <a href="#">
-                    <img src="assests/images/cart.png" alt="" />
+                    <img src="assets/images/cart.png" alt="" />
                   </a>
                 </div>
 
@@ -65,7 +65,7 @@ const Header = () => {
         <section className="slider_section position-relative">
 
           <div className="design-box">
-            <img src="assests/images/design-1.png" alt="" />
+            <img src="assets/images/design-1.png" alt="" />
           </div>
 
           <div className="container">
@@ -83,7 +83,7 @@ const Header = () => {
 
               <div className="col-md-6">
                 <div className="img-box">
-                  <img src="assests/images/hero.jpg" alt="" />
+                  <img src="assets/images/hero.jpg" alt="" />
                 </div>
               </div>
 
@@ -103,7 +103,7 @@ const Header = () => {
                 <h6>Best PRICE</h6>
               </div>
               <div className="img-box">
-                <img src="assests/images/earrings.png" alt="" />
+                <img src="assets/images/earrings.png" alt="" />
               </div>
               <div className="name">
                 <h5>Bracelet</h5>
@@ -115,7 +115,7 @@ const Header = () => {
                 <h6>Best PRICE</h6>
               </div>
               <div className="img-box">
-                <img src="assests/images/multiplejewellery.png" alt="" />
+                <img src="assets/images/multiplejewellery.png" alt="" />
               </div>
               <div className="name">
                 <h5>Ring</h5>
@@ -127,7 +127,7 @@ const Header = () => {
                 <h6>Best PRICE</h6>
               </div>
               <div className="img-box">
-                <img src="assests/images/nacklace.png" alt="" />
+                <img src="assets/images/nacklace.png" alt="" />
               </div>
               <div className="name">
                 <h5>Earings</h5>
